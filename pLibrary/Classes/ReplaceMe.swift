@@ -8,9 +8,9 @@ open class ReplaceMe {
         self.name = name
     }
     
-//    public convenience init() {
-//        self.name = "peppi"
-//    }
+    public convenience init() {
+        self.init(name: "Test")
+    }
 
     public func printName() {
         print("My name is \(self.name)")
