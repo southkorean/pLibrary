@@ -8,7 +8,7 @@
 import UIKit
 
 @available(iOS 13.0, *)
-open class pLibray: UIView {
+open class pLibAlert: UIView {
     private var contentView: UIView!
     private var titleLabel: UILabel!
     private var lineView: UIView!
