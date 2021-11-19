@@ -1,0 +1,22 @@
+{
+  "name": "pLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of pLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/peppi@knou.ac.kr/pLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "peppi@knou.ac.kr": "peppi@knou.ac.kr"
+  },
+  "source": {
+    "git": "https://github.com/peppi@knou.ac.kr/pLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "pLibrary/Classes/**/*"
+}
